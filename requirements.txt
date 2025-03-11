@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+hyperopt
+streamlit  # If deploying on Streamlit
+matplotlib
+seaborn
